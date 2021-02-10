@@ -4,10 +4,10 @@
 
 A software 3D model renderer of 2k lines of code, features include:
 
-* Reading in OBJ model
-* Ray tracing
-* Phong smoothing
-* Bump mapping
+* Reading in [OBJ model](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
+* [Phong shading](https://en.wikipedia.org/wiki/Phong_shading)
+* [Bump mapping](https://en.wikipedia.org/wiki/Bump_mapping)
 
 All features are implemented from scratch, `xlib` is the only dependent library. `xlib` is used only for drawing pixels.
 
